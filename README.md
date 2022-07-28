@@ -1,3 +1,6 @@
+    复制自  https://gitee.com/shuguanga/aiyue?_from=gitee_search
+    因gitee限制不能直接导入故在git复制一份
+
 ## 爱阅书香书源
 ------------
 #### 部分书源需要*6.85版本*才能使用，建议大家保持软件最新，避免因版本问题导致书源不可用
